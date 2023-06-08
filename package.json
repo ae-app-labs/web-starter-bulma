@@ -1,0 +1,8 @@
+{
+  "name": "web-starter-bulma",
+  "version": "1.0.0",
+  "description": "A starter template for a web project with bulma css framework",
+  "keywords": ["web","template", "bulma", "html", "css"],
+  "author": "ae-app-labs",
+  "license": "ISC"
+}
